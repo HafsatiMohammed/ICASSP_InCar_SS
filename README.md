@@ -16,21 +16,21 @@
     </td>
     <td>
       <audio controls>
-        <source src="audio2.mp3" type="audio/mpeg">
+        <source src="audio2.mp3" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
       <figcaption> Mixture Mic 1 </figcaption>
     </td>
     <td>
       <audio controls>
-        <source src="audio3.mp3" type="audio/mpeg">
+        <source src="audio3.mp3" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
       <figcaption> Mixture Mic 2 </figcaption>
     </td>
     <td>
       <audio controls>
-        <source src="audio4.mp3" type="audio/mpeg">
+        <source src="audio4.mp3" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
       <figcaption> Mixture Mic 3 </figcaption>
