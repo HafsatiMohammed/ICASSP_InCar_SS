@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-  <audio src="/mohammed.hafsati/icassp_incar_ss/-/raw/main/Audio_samples/MusicBeamRNN_0_set1.wav" controls="controls" data-testid="audio"></audio>
+  <audio src="https://gitlab.com/mohammed.hafsati/icassp_incar_ss/-/raw/main/Audio_samples/MusicBeamRNN_0_set1.wav" controls="controls" data-testid="audio"></audio>
       <figcaption> Truth Driver </figcaption>
     </td>
     <td>
