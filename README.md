@@ -5,49 +5,24 @@
 
 
 ## Mixture
+## Mixture
 <table>
   <tr>
     <td>
-      
-
-https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/8eeba64c-cd68-410c-a2f2-528e97248da9
-
-
+[Mix Driver](https://github.com/HafsatiMohammed/ICASSP_InCar_SS/blob/main/Audio_samples/MusicBeamRNN_0_set1.wav)
       <figcaption> Mix Driver </figcaption>
     </td>
     <td>
-
-
-https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/47e4bb10-e3ad-4dcf-83af-cae69ba0170c
-
-
-
-      <figcaption> Mix  Co-Driver </figcaption>
+[Mix Driver](https://github.com/HafsatiMohammed/ICASSP_InCar_SS/blob/main/Audio_samples/MusicBeamRNN_0_set1.wav) 
+      Mix Co-Driver </figcaption>
     </td>
     <td>
-
-
-
-
-
-
-
-https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/01dc01f1-ebd6-4f57-bc9c-93ac8b4c97fa
-
-
-
-      <figcaption> Mix  Passenger </figcaption>
+[Mix Driver](https://github.com/HafsatiMohammed/ICASSP_InCar_SS/blob/main/Audio_samples/MusicBeamRNN_0_set1.wav)
+      <figcaption> Mix Passenger </figcaption>
     </td>
     <td>
-
-
-
-https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/2e2b34b6-3c64-479f-aa46-274f187a9447
-
-
-
-
-      <figcaption> Mix  Co-Passenger </figcaption>
+[Mix Driver](https://github.com/HafsatiMohammed/ICASSP_InCar_SS/blob/main/Audio_samples/MusicBeamRNN_0_set1.wav)
+      <figcaption> Mix Co-Passenger </figcaption>
     </td>
   </tr>
 </table>
