@@ -1,5 +1,8 @@
 # ICASSP_InCar_SS
 
+https://gitlab.com/mohammed.hafsati/icassp_incar_ss/-/raw/main/Audio_samples/MusicBeamRNN_0_set1.wav
+
+
 
 
 ## Mixture
@@ -23,7 +26,7 @@
     </td>
     <td>
       <audio controls>
-        <source src="Audio_samples/MusicTruth_0_set1.wav" type="audio/wav">
+        <source src="MusicWaveUnet_3_set1.mp3" type="audio/mp3">
         Your browser does not support the audio element.
       </audio>
       <figcaption> Truth  Passenger </figcaption>
