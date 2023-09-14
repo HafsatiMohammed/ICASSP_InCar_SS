@@ -4,9 +4,38 @@
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+<table>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="audio1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <figcaption>Caption for Audio 1</figcaption>
+    </td>
+    <td>
+      <audio controls>
+        <source src="audio2.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <figcaption>Caption for Audio 2</figcaption>
+    </td>
+    <td>
+      <audio controls>
+        <source src="audio3.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <figcaption>Caption for Audio 3</figcaption>
+    </td>
+    <td>
+      <audio controls>
+        <source src="audio4.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <figcaption>Caption for Audio 4</figcaption>
+    </td>
+  </tr>
+</table>
 
 ## Add your files
 
