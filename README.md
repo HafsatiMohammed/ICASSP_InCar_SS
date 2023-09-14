@@ -1,6 +1,5 @@
 # ICASSP_InCar_SS
 
-https://gitlab.com/mohammed.hafsati/icassp_incar_ss/-/raw/main/Audio_samples/MusicBeamRNN_0_set1.wav
 
 
 
@@ -9,12 +8,16 @@ https://gitlab.com/mohammed.hafsati/icassp_incar_ss/-/raw/main/Audio_samples/Mus
 
 
 
+https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/d1acdcf2-932f-4c49-aad9-9a942ddba957
+
+
+
 ## Truth
 
 <table>
   <tr>
     <td>
-  <audio src="https://gitlab.com/mohammed.hafsati/icassp_incar_ss/-/raw/main/Audio_samples/MusicBeamRNN_0_set1.wav" controls="controls" data-testid="audio"></audio>
+https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/d1acdcf2-932f-4c49-aad9-9a942ddba957
       <figcaption> Truth Driver </figcaption>
     </td>
     <td>
