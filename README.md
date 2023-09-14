@@ -12,7 +12,7 @@
   <tr>
     <td>
       <audio controls>
-        <source src="Audio_samples/MusicTruth_0_set1.wav" type="audio/wav">
+        <source src="https://gitlab.com/mohammed.hafsati/icassp_incar_ss/-/blob/main/Audio_samples/MusicBeamRNN_0_set1.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
       <figcaption> Truth Driver </figcaption>
