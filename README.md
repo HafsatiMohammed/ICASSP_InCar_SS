@@ -8,7 +8,7 @@
   <tr>
     <td>
       <audio controls>
-        <source src="audio1.mp3" type="audio/mpeg">
+        <source src="MusicTruth_0_set1.wav/audio1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
       <figcaption> Mixture Mic 0 </figcaption>
