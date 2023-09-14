@@ -17,7 +17,11 @@ https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/d1acdcf2-932f
 <table>
   <tr>
     <td>
-https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/d1acdcf2-932f-4c49-aad9-9a942ddba957
+
+
+https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/4998acf4-ca78-4da7-aadc-213d96abb892
+
+
       <figcaption> Truth Driver </figcaption>
     </td>
     <td>
