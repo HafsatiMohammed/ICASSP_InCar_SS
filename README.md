@@ -1,5 +1,11 @@
 # ICASSP_InCar_SS
-Please find the listening samples at the provided "link." In this demonstration, we showcase the results using the latest microphone configuration, mic_set2.
+Please find the listening samples at the provided "link." In this demonstration, we showcase the results using the latest microphone configuration, mic_set2 (mic1, mic2,mic3,mic4):
+
+![image](https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/7d8b7dbc-24ea-44bd-91f1-fb5c12a52258)
+
+![image](https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/9377fcaa-1133-4d5b-b444-a0e9223e63c1)
+
+
 
 We have organized the results into eight pages, each presenting an example from the various studied scenarios:
 
