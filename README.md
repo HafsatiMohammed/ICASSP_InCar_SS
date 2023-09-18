@@ -5,19 +5,23 @@ Please find the listening samples at the provided "link." In this demonstration,
 
 ![image](https://github.com/HafsatiMohammed/ICASSP_InCar_SS/assets/64764613/13446f45-b44e-4993-a748-c79c3f940cc6)
 
-We have organized the results into eight pages, each presenting an example from the various studied scenarios:
+We have organized the results into eight pages, each presenting the results from the various studied scenarios:
 
-No audio played through the car loudspeakers.
-Music-related content:
-2. Music played with an SNR of 0dB relative to the Driver's speech in the reference microphone.
+### No audio played through the car loudspeakers.
 
-Music played with an SNR of 10dB relative to the Driver's speech in the reference microphone.
-Music played with an SNR of 20dB relative to the Driver's speech in the reference microphone.
-Speech-related content:
-5. Speech played with an SNR of 0dB relative to the Driver's speech in the reference microphone.
+### Music-related content:
+- Music played with an SNR of 0dB relative to the Driver's speech in the reference microphone.
+- Music played with an SNR of 10dB relative to the Driver's speech in the reference microphone.
+- Music played with an SNR of 20dB relative to the Driver's speech in the reference microphone.
+### Speech-related content:
 
-Speech played with an SNR of 10dB relative to the Driver's speech in the reference microphone.
-Speech played with an SNR of 20dB relative to the Driver's speech in the reference microphone.
+- Speech played with an SNR of 0dB relative to the Driver's speech in the reference microphone.
+- Speech played with an SNR of 10dB relative to the Driver's speech in the reference microphone.
+- Speech played with an SNR of 20dB relative to the Driver's speech in the reference microphone.
+
+
+
+
 In case of any issues with the website, here is a backup example: We played music-related content with an SNR of 10dB.
 
 
